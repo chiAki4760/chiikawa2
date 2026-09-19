@@ -703,6 +703,33 @@
         transition: none !important;
       }
     }
+
+    .reset-area {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px dashed rgba(223,234,223,.25);
+}
+
+.btn-reset {
+  flex: 1;
+  padding: 10px;
+  background: transparent;
+  color: #cfe0d3;
+  border: 2px solid rgba(207,224,211,.5);
+  border-radius: 3px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  cursor: pointer;
+}
+
+.btn-reset:hover { background: rgba(207,224,211,.15); }
+
+.btn-reset.danger { color: #e59a9a; border-color: #b02a2a; }
+.btn-reset.danger:hover { background: #b02a2a; color: #fff; }
+
+    
   </style>
 </head>
 
@@ -793,6 +820,11 @@
       <summary>新しい「夜の記録」データを読み込む</summary>
       <textarea id="json-input" placeholder="JSONを貼り付けてください" aria-label="問題データのJSON"></textarea>
       <button type="button" class="btn-load" onclick="loadCustomData()">問題データを読み込む</button>
+    <div class="reset-area">
+  <button type="button" class="btn-reset" onclick="resetProgress()">進捗をリセット</button>
+  <button type="button" class="btn-reset danger" onclick="resetAll()">すべて初期化</button>
+</div>
+
     </details>
 
   </div>
@@ -1394,7 +1426,22 @@ function loadCustomData() {
   }
 }
 
+/* 進捗だけリセット（問題データはそのまま） */
+function resetProgress() {
+  if (!confirm("進捗と正解数をリセットして、最初から始めます。よろしいですか？")) return;
+  startFreshQuiz();
+}
 
+/* すべて初期化（読み込んだ問題データも削除） */
+function resetAll() {
+  if (!confirm("進捗と、読み込んだ問題データをすべて消して、初期状態に戻します。よろしいですか？")) return;
+  Object.values(KEY).forEach(k => store.remove(k));
+  baseQuestions = defaultData;
+  document.getElementById("json-input").value = "";
+  startFreshQuiz();
+}
+
+  
 /* =========================================================
    起動
 ========================================================= */
