@@ -109,5 +109,120 @@ window.PROBLEM_SETS = [
       {"q": "その人は稼ぎの殆どを匿名で社会的弱者に寄付していたようだ。", "a": "The man seems to have been donating most of what he earned anonymously to socially handicapped people.", "full": true}
     ]
   },
+    {
+    "title": "彼は頑固だが（一肌脱ぐ）",
+    "items": [
+      {"q": "彼は頑固だ", "a": "He is stubborn, to be sure"},
+      {"q": "我々に借金がある", "a": "he is indebted to us"},
+      {"q": "一肌脱がずにはいられない", "a": "he would have no choice but to do us the favor"},
+      {"q": "我々に借金があるので一肌脱がずにはいられない", "a": "he is indebted to us so much that he would have no choice but to do us the favor"},
+      {"q": "彼は頑固だが、我々に借金があるので一肌脱がずにはいられないだろう", "a": "He is stubborn, to be sure, but he is indebted to us so much that he would have no choice but to do us the favor"},
+      {"q": "だから彼にやってもらえばいいのだ", "a": "So, let it be done by him"},
+      {"q": "彼は頑固だが、我々に借金があるので一肌脱がずにはいられないだろう。だから彼にやってもらえばいいのだ。", "a": "He is stubborn, to be sure, but he is indebted to us so much that he would have no choice but to do us the favor. So, let it be done by him.", "full": true}
+    ]
+  },
+  {
+    "title": "家主さんほど親切な人はいなかった",
+    "items": [
+      {"q": "私がこの国で出会ったなかで、誰も（いなかった）", "a": "No one I've ever met in this country"},
+      {"q": "うちの家主さんほど親切にしてくれた", "a": "was as kind to me as my landlady"},
+      {"q": "私がこの国で出会ったなかで、うちの家主さんほど親切にしてくれた人はいなかった", "a": "No one I've ever met in this country was as kind to me as my landlady"},
+      {"q": "彼女を見て母を思い出した", "a": "She reminded me of my mother"},
+      {"q": "今の彼女と同じくらいの年で亡くなった", "a": "passed away at almost the same age as she is now"},
+      {"q": "彼女を見て、今の彼女と同じくらいの年で亡くなった母を思い出した", "a": "She reminded me of my mother, who passed away at almost the same age as she is now"},
+      {"q": "私がこの国で出会ったなかで、うちの家主さんほど親切にしてくれた人はいなかった。彼女を見て母を思い出した。母は今の彼女と同じくらいの年で亡くなった。", "a": "No one I've ever met in this country was as kind to me as my landlady. She reminded me of my mother, who passed away at almost the same age as she is now.", "full": true}
+    ]
+  },
+  {
+    "title": "息子を叱らない日はない",
+    "items": [
+      {"q": "息子を叱らない日は一日もない", "a": "Not a day passes but I scold my boy"},
+      {"q": "どうやっていたずらを止めさせればいいのかしら", "a": "I wonder how I should make him stop doing mischief"},
+      {"q": "両親が私を育てた苦労", "a": "what my parents went through to bring me up"},
+      {"q": "今になって両親が私を育てた苦労が分かった", "a": "only now did I realize what my parents went through to bring me up"},
+      {"q": "どうやっていたずらを止めさせればいいのかしら。今になって両親が私を育てた苦労が分かったわ", "a": "I wonder how I should make him stop doing mischief and only now did I realize what my parents went through to bring me up"},
+      {"q": "息子を叱らない日は一日もない。どうやっていたずらを止めさせればいいのかしら。今になって両親が私を育てた苦労が分かったわ。", "a": "Not a day passes but I scold my boy. I wonder how I should make him stop doing mischief and only now did I realize what my parents went through to bring me up.", "full": true}
+    ]
+  },
+  {
+    "title": "陰で何と言っているのか",
+    "items": [
+      {"q": "彼らが君のことを陰で何と言っているのか", "a": "what they say about you behind your back"},
+      {"q": "彼らが君のことを陰で何と言っているのか興味がある", "a": "You're curious about what they say about you behind your back"},
+      {"q": "面と向かって良く言っていても", "a": "though they speak well of you in your presence"},
+      {"q": "面と向かって良く言っていても、彼らが君のことを陰で何と言っているのか興味がある", "a": "You're curious about what they say about you behind your back, though they speak well of you in your presence"},
+      {"q": "そうではないですか（確認）", "a": "Is it right?"},
+      {"q": "面と向かって良く言っていても、彼らが君のことを陰で何と言っているのか興味があるんじゃないんですか。", "a": "You're curious about what they say about you behind your back, though they speak well of you in your presence. Is it right?", "full": true}
+    ]
+  },
+  {
+    "title": "与党議員の主張（消費税）",
+    "items": [
+      {"q": "与党の議員が野党に対する質疑応答のなかで主張したところによると", "a": "According to what the member of the ruling party insisted in his answer to the opposition parties"},
+      {"q": "急激に人口が増加している高齢者", "a": "the elderly, whose population is dramatically becoming bigger"},
+      {"q": "高齢者の生活援助に備えられるように", "a": "so that they can get ready to support the elderly"},
+      {"q": "急激に人口が増加している高齢者の生活援助に備えられるように", "a": "so that they can get ready to support the elderly, whose population is dramatically becoming bigger"},
+      {"q": "消費税の値上げが必要だ", "a": "it is of necessity to raise the consumption tax"},
+      {"q": "高齢者の人口は急激に増加しており、高齢者の生活援助がいつでもできるよう消費税の値上げが必要だ", "a": "it is of necessity to raise the consumption tax so that they can get ready to support the elderly, whose population is dramatically becoming bigger"},
+      {"q": "与党の議員は野党に対する質疑応答のなかで、高齢者の人口は急激に増加しており、高齢者の生活援助がいつでもできるよう消費税の値上げが必要だ、と主張した。", "a": "According to what the member of the ruling party insisted in his answer to the opposition parties, it is of necessity to raise the consumption tax so that they can get ready to support the elderly, whose population is dramatically becoming bigger.", "full": true}
+    ]
+  },
+  {
+    "title": "やさしい英語で書かれた本",
+    "items": [
+      {"q": "やさしい英語で書かれているので", "a": "Written in simple English"},
+      {"q": "この本は初心者でも読むことができる", "a": "this book can be read by basic students"},
+      {"q": "やさしい英語で書かれているので、この本は初心者でも読むことができる。", "a": "Written in simple English, this book can be read by basic students.", "full": true}
+    ]
+  },
+  {
+    "title": "変な男だったので（分詞構文）",
+    "items": [
+      {"q": "変な男だったので", "a": "A strange man"},
+      {"q": "彼には友達がほとんどいなかった", "a": "he had few friends"},
+      {"q": "変な男だったので、彼には友達がほとんどいなかった。", "a": "A strange man, he had few friends.", "full": true}
+    ]
+  },
+  {
+    "title": "若くて有能なので",
+    "items": [
+      {"q": "若くて有能なので", "a": "Young and capable"},
+      {"q": "彼は社長から大いに期待されている", "a": "he is very much counted on by the president"},
+      {"q": "若くて有能なので、彼は社長から大いに期待されている。", "a": "Young and capable, he is very much counted on by the president.", "full": true}
+    ]
+  },
+  {
+    "title": "わずか5歳にして",
+    "items": [
+      {"q": "わずか５歳にして", "a": "Only 5 years old"},
+      {"q": "彼はその曲を弾くことができた", "a": "he could play the music"},
+      {"q": "わずか５歳にして、彼はその曲を弾くことができた。", "a": "Only 5 years old, he could play the music.", "full": true}
+    ]
+  },
+  {
+    "title": "非常に失望したことに",
+    "items": [
+      {"q": "非常に失望した", "a": "I'm very disappointed"},
+      {"q": "履歴書や面接の印象に基づく私の期待", "a": "my expectations based on his resume and the impression I got at the interview"},
+      {"q": "彼は履歴書や面接の印象に基づく私の期待にかなわない", "a": "he does not come up to my expectations based on his resume and the impression I got at the interview"},
+      {"q": "正直であることを除けば", "a": "except that he is honest"},
+      {"q": "正直であることを除けば、彼は履歴書や面接の印象に基づく私の期待にかなわない", "a": "he does not come up to my expectations based on his resume and the impression I got at the interview except that he is honest"},
+      {"q": "非常に失望したことに、正直であることを除けば、彼は履歴書や面接の印象に基づく私の期待にかなわない。", "a": "I'm very disappointed that he does not come up to my expectations based on his resume and the impression I got at the interview except that he is honest.", "full": true}
+    ]
+  },
+  {
+    "title": "彼を嫉む前に本当の理由を",
+    "items": [
+      {"q": "なぜ彼がそんなに若くして所長になったのか、本当の理由", "a": "the real reason why he became the manager so young"},
+      {"q": "なぜ彼がそんなに若くして所長になったのか、本当の理由を知りなさい", "a": "You must know the real reason why he became the manager so young"},
+      {"q": "彼を嫉んで、社長のコネだなんて噂を広める前に", "a": "before you envy him and spread rumors, saying that he has a kind of connection with the president"},
+      {"q": "彼を嫉んで、社長のコネだなんて噂を広める前に、なぜ彼がそんなに若くして所長になったのか、本当の理由を知りなさい", "a": "You must know the real reason why he became the manager so young before you envy him and spread rumors, saying that he has a kind of connection with the president"},
+      {"q": "自分ではあまり才能がないと思っていた", "a": "he thought he was not so talented"},
+      {"q": "人の倍、働きまた勉強した", "a": "he worked and studied twice as much as the others"},
+      {"q": "彼は自分ではあまり才能がないと思っていたので、人の倍、働きまた勉強したのだ", "a": "he worked and studied twice as much as the others as he thought he was not so talented"},
+      {"q": "実際、彼は自分ではあまり才能がないと思っていたので、人の倍、働きまた勉強したのだ。", "a": "In fact, he worked and studied twice as much as the others as he thought he was not so talented."},
+      {"q": "彼を嫉んで、社長のコネだなんて噂を広める前に、なぜ彼がそんなに若くして所長になったのか、本当の理由を知りなさい。実際、彼は自分ではあまり才能がないと思っていたので、人の倍、働きまた勉強したのだ。", "a": "You must know the real reason why he became the manager so young before you envy him and spread rumors, saying that he has a kind of connection with the president. In fact, he worked and studied twice as much as the others as he thought he was not so talented.", "full": true}
+    ]
+  },
   /* ▲ ここより上に追加 */
 ];
