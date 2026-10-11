@@ -224,5 +224,146 @@ window.PROBLEM_SETS = [
       {"q": "彼を嫉んで、社長のコネだなんて噂を広める前に、なぜ彼がそんなに若くして所長になったのか、本当の理由を知りなさい。実際、彼は自分ではあまり才能がないと思っていたので、人の倍、働きまた勉強したのだ。", "a": "You must know the real reason why he became the manager so young before you envy him and spread rumors, saying that he has a kind of connection with the president. In fact, he worked and studied twice as much as the others as he thought he was not so talented.", "full": true}
     ]
   },
+  {
+    "title": "銀行員になりたいと言った（told me (that)）",
+    "items": [
+      {"q": "彼は私に言った", "a": "He told me"},
+      {"q": "銀行員になりたい", "a": "(that) he wanted to be a banker."},
+      {"q": "彼は私に銀行員になりたいと言った。", "a": "He told me (that) he wanted to be a banker.", "full": true}
+    ]
+  },
+  {
+    "title": "会社がなぜ倒産したのか（the reason why / where）",
+    "items": [
+      {"q": "(あなたは)理由を知っていますか", "a": "Do you know the reason"},
+      {"q": "彼のお父さんが働いていた会社", "a": "the company where his father worked"},
+      {"q": "彼のお父さんが働いていた会社がなぜ倒産したのか", "a": "why the company where his father worked went bankrupt?"},
+      {"q": "彼のお父さんが働いていた会社がなぜ倒産したのか知っていますか。", "a": "Do you know the reason why the company where his father worked went bankrupt?", "full": true}
+    ]
+  },
+  {
+    "title": "倒産を免れることは不可能だった（It was impossible for ~ to）",
+    "items": [
+      {"q": "(それは)不可能だった", "a": "It was impossible"},
+      {"q": "倒産を免れること", "a": "to avoid going bankrupt."},
+      {"q": "その会社が倒産を免れること", "a": "for the company to avoid going bankrupt."},
+      {"q": "その会社が倒産を免れることは不可能であった。", "a": "It was impossible for the company to avoid going bankrupt.", "full": true}
+    ]
+  },
+  {
+    "title": "融資が止まるとすぐに倒産（as soon as）",
+    "items": [
+      {"q": "その会社は倒産した", "a": "The company went bankrupt"},
+      {"q": "メインバンクが融資を停止した", "a": "its main bank stopped financing it."},
+      {"q": "メインバンクが融資を停止するとすぐに", "a": "as soon as its main bank stopped financing it."},
+      {"q": "メインバンクが融資を停止するとすぐにその会社は倒産した。", "a": "The company went bankrupt as soon as its main bank stopped financing it.", "full": true}
+    ]
+  },
+  {
+    "title": "ずさんな組織で倒産しつつある（分詞構文 Organized / supported）",
+    "items": [
+      {"q": "ずさんに組織され", "a": "Organized in a bad way"},
+      {"q": "支援する投資家も殆どなく", "a": "supported by few investors,"},
+      {"q": "ずさんに組織され、支援する投資家も殆どなく", "a": "Organized in a bad way and supported by few investors,"},
+      {"q": "その会社は倒産しつつある", "a": "the company is becoming bankrupt."},
+      {"q": "ずさんに組織され、支援する投資家も殆どなく、その会社は倒産しつつある。", "a": "Organized in a bad way and supported by few investors, the company is becoming bankrupt.", "full": true}
+    ]
+  },
+  {
+    "title": "社長がしっかりしていたなら（仮定法過去完了・As he was）",
+    "items": [
+      {"q": "社長が～な人だったなら", "a": "If the president had been a person"},
+      {"q": "会社の事をしっかり考える", "a": "who thought of his company carefully,"},
+      {"q": "社長が会社の事をしっかり考える人だったなら", "a": "If the president had been a person who thought of his company carefully,"},
+      {"q": "そんな事は起こらなかっただろう", "a": "that wouldn't have happened."},
+      {"q": "社長が会社の事をしっかり考える人だったなら、そんな事は起こらなかっただろう。", "a": "If the president had been a person who thought of his company carefully, that wouldn't have happened."},
+      {"q": "そうではなかったので", "a": "As he was,"},
+      {"q": "会社は倒産した", "a": "the company went bankrupt."},
+      {"q": "しかし、そうではなかったので会社は倒産したのだ。", "a": "As he was, the company went bankrupt."},
+      {"q": "問題は～だった", "a": "The problem was"},
+      {"q": "彼が父の仕事を継いだ", "a": "he took over his father's business"},
+      {"q": "何の苦労もせずに", "a": "without going through any of the troubles in life."},
+      {"q": "彼が何の苦労もせずに父の仕事を継いだ", "a": "he took over his father's business without going through any of the troubles in life."},
+      {"q": "問題は彼が何の苦労もせずに父の仕事を継いだところにある。", "a": "The problem was that he took over his father's business without going through any of the troubles in life."},
+      {"q": "社長が会社の事をしっかり考える人だったなら、そんな事は起こらなかっただろう。しかし、そうではなかったので会社は倒産したのだ。問題は彼が何の苦労もせずに父の仕事を継いだところにある。", "a": "If the president had been a person who thought of his company carefully, that wouldn't have happened. As he was, the company went bankrupt. The problem was that he took over his father's business without going through any of the troubles in life.", "full": true}
+    ]
+  },
+  {
+    "title": "こんなに焦っている理由（The reason why ~ is because / in case）",
+    "items": [
+      {"q": "私がこんなに焦っている理由", "a": "The reason why I'm in such a hurry"},
+      {"q": "(我々が)その金を返すことができない場合は", "a": "in case we cannot return the money"},
+      {"q": "利子を添えて銀行に", "a": "with its interest to the bank"},
+      {"q": "利子を添えてその金を銀行に返すことができない場合は", "a": "in case we cannot return the money with its interest to the bank"},
+      {"q": "今月中に", "a": "by the end of this month,"},
+      {"q": "今月中に利子を添えてその金を銀行に返すことができない場合は", "a": "in case we cannot return the money with its interest to the bank by the end of this month,"},
+      {"q": "(我々の)工場は銀行に取られてしまう", "a": "our factory will be taken by the bank."},
+      {"q": "今月中に利子を添えてその金を返すことができない場合は、銀行に工場を取られてしまう", "a": "in case we cannot return the money with its interest to the bank by the end of this month, our factory will be taken by the bank."},
+      {"q": "私がこんなに焦っているのは、今月中に利子を添えてその金を返すことができない場合は、銀行に工場を取られてしまうからだ。", "a": "The reason why I'm in such a hurry is because in case we cannot return the money with its interest to the bank by the end of this month, our factory will be taken by the bank.", "full": true}
+    ]
+  },
+  {
+    "title": "まもなく妻に説得されるだろう（It will not be long before）",
+    "items": [
+      {"q": "まもなく～だろう", "a": "It will not be long"},
+      {"q": "彼が妻に説得される", "a": "before he is persuaded by his wife,"},
+      {"q": "まもなく彼は妻に説得されるだろう", "a": "It will not be long before he is persuaded by his wife,"},
+      {"q": "20年間彼と連れ添ってきた", "a": "who has been going together with him for 20 years,"},
+      {"q": "２０年間連れ添った妻に説得されて", "a": "before he is persuaded by his wife, who has been going together with him for 20 years,"},
+      {"q": "悪いことをやめるべきだ", "a": "that he should stop doing wrong."},
+      {"q": "２０年間連れ添った妻に説得され、彼が悪いことをやめる日もすぐにやって来るでしょう。", "a": "It will not be long before he is persuaded by his wife, who has been going together with him for 20 years, that he should stop doing wrong.", "full": true}
+    ]
+  },
+  {
+    "title": "結婚すべきではないと説得した（persuade her that）",
+    "items": [
+      {"q": "(私は)彼女を説得してみた", "a": "I tried to persuade her"},
+      {"q": "彼は誠実でない", "a": "that he isn't sincere"},
+      {"q": "彼は誠実でない、と彼女を説得してみた", "a": "I tried to persuade her that he isn't sincere"},
+      {"q": "彼女は彼と結婚すべきではない", "a": "that she shouldn't get married to him."},
+      {"q": "彼は誠実でない、彼と結婚すべきではない、と彼女を説得してみた。", "a": "I tried to persuade her that he isn't sincere and that she shouldn't get married to him.", "full": true}
+    ]
+  },
+  {
+    "title": "いくら説得しても耳を貸さない（no matter how）",
+    "items": [
+      {"q": "彼は(私に)耳を貸さなかった", "a": "He didn't listen to me,"},
+      {"q": "(私は)彼を説得しようとしてみた", "a": "I tried to persuade him."},
+      {"q": "どんなに熱心に説得しようとしても", "a": "no matter how eagerly I tried to persuade him."},
+      {"q": "熱心に説得しようとしてみたが、彼は耳を貸さなかった。", "a": "He didn't listen to me, no matter how eagerly I tried to persuade him.", "full": true}
+    ]
+  },
+  {
+    "title": "説得できなかった（fail to）",
+    "items": [
+      {"q": "彼は失敗した", "a": "He failed"},
+      {"q": "彼女を説得すること", "a": "to persuade her."},
+      {"q": "彼は彼女を説得できなかった。", "a": "He failed to persuade her.", "full": true}
+    ]
+  },
+  {
+    "title": "容疑者は南部育ちに違いない（must have been / no matter how）",
+    "items": [
+      {"q": "その専門家は言った", "a": "The expert said"},
+      {"q": "容疑者は住んでいるか、育ったに違いない", "a": "the suspect must live in or must have been brought up"},
+      {"q": "USの南部に", "a": "in the southern part of the US"},
+      {"q": "容疑者はUSの南部に住んでいるか、そこで育ったに違いない", "a": "the suspect must live in or must have been brought up in the southern part of the US"},
+      {"q": "その専門家が言うには、容疑者はUSの南部に住んでいるか、そこで育ったに違いない", "a": "The expert said the suspect must live in or must have been brought up in the southern part of the US"},
+      {"q": "容疑者がいくら巧みに本来のアクセントを隠そうとしても", "a": "no matter how skillfully the suspect tried to hide his native accent,"},
+      {"q": "(彼は)専門家をごまかすことは出来ない", "a": "he couldn't fool the expert."},
+      {"q": "いくら巧みに彼本来のアクセントを隠そうとしても、専門家をごまかすことは出来ない", "a": "no matter how skillfully the suspect tried to hide his native accent, he couldn't fool the expert."},
+      {"q": "その専門家が言うには、容疑者はUSの南部に住んでいるか、そこで育ったに違いない。いくら巧みに彼本来のアクセントを隠そうとしても、専門家をごまかすことは出来ないと。", "a": "The expert said the suspect must live in or must have been brought up in the southern part of the US and that no matter how skillfully the suspect tried to hide his native accent, he couldn't fool the expert.", "full": true}
+    ]
+  },
+  {
+    "title": "円高は当分続きそうだ（As far as ~ sees）",
+    "items": [
+      {"q": "専門家が見る限り", "a": "As far as the expert sees,"},
+      {"q": "円高", "a": "the appreciation of the yen"},
+      {"q": "(それは)当分続くだろう", "a": "It will continue for some more time."},
+      {"q": "円高は当分続きそうだ", "a": "the appreciation of the yen will continue for some more time."},
+      {"q": "専門家が見る限り、円高は当分続きそうだ。", "a": "As far as the expert sees, the appreciation of the yen will continue for some more time.", "full": true}
+    ]
+  },
   /* ▲ ここより上に追加 */
 ];
