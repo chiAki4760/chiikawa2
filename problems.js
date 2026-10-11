@@ -225,7 +225,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "銀行員になりたいと言った（told me (that)）",
+    "title": "銀行員になりたいと言った",
     "items": [
       {"q": "彼は私に言った", "a": "He told me"},
       {"q": "銀行員になりたい", "a": "(that) he wanted to be a banker."},
@@ -233,7 +233,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "会社がなぜ倒産したのか（the reason why / where）",
+    "title": "会社がなぜ倒産したのか",
     "items": [
       {"q": "(あなたは)理由を知っていますか", "a": "Do you know the reason"},
       {"q": "彼のお父さんが働いていた会社", "a": "the company where his father worked"},
@@ -242,7 +242,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "倒産を免れることは不可能だった（It was impossible for ~ to）",
+    "title": "倒産を免れることは不可能だった",
     "items": [
       {"q": "(それは)不可能だった", "a": "It was impossible"},
       {"q": "倒産を免れること", "a": "to avoid going bankrupt."},
@@ -251,7 +251,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "融資が止まるとすぐに倒産（as soon as）",
+    "title": "融資が止まるとすぐに倒産",
     "items": [
       {"q": "その会社は倒産した", "a": "The company went bankrupt"},
       {"q": "メインバンクが融資を停止した", "a": "its main bank stopped financing it."},
@@ -260,7 +260,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "ずさんな組織で倒産しつつある（分詞構文 Organized / supported）",
+    "title": "ずさんな組織で倒産しつつある（分詞構文）",
     "items": [
       {"q": "ずさんに組織され", "a": "Organized in a bad way"},
       {"q": "支援する投資家も殆どなく", "a": "supported by few investors,"},
@@ -270,7 +270,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "社長がしっかりしていたなら（仮定法過去完了・As he was）",
+    "title": "社長がしっかりしていたなら（仮定法過去完了）",
     "items": [
       {"q": "社長が～な人だったなら", "a": "If the president had been a person"},
       {"q": "会社の事をしっかり考える", "a": "who thought of his company carefully,"},
@@ -289,7 +289,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "こんなに焦っている理由（The reason why ~ is because / in case）",
+    "title": "こんなに焦っている理由",
     "items": [
       {"q": "私がこんなに焦っている理由", "a": "The reason why I'm in such a hurry"},
       {"q": "(我々が)その金を返すことができない場合は", "a": "in case we cannot return the money"},
@@ -303,7 +303,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "まもなく妻に説得されるだろう（It will not be long before）",
+    "title": "まもなく妻に説得されるだろう",
     "items": [
       {"q": "まもなく～だろう", "a": "It will not be long"},
       {"q": "彼が妻に説得される", "a": "before he is persuaded by his wife,"},
@@ -315,7 +315,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "結婚すべきではないと説得した（persuade her that）",
+    "title": "結婚すべきではないと説得した",
     "items": [
       {"q": "(私は)彼女を説得してみた", "a": "I tried to persuade her"},
       {"q": "彼は誠実でない", "a": "that he isn't sincere"},
@@ -325,7 +325,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "いくら説得しても耳を貸さない（no matter how）",
+    "title": "いくら説得しても耳を貸さない",
     "items": [
       {"q": "彼は(私に)耳を貸さなかった", "a": "He didn't listen to me,"},
       {"q": "(私は)彼を説得しようとしてみた", "a": "I tried to persuade him."},
@@ -334,7 +334,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "説得できなかった（fail to）",
+    "title": "説得できなかった",
     "items": [
       {"q": "彼は失敗した", "a": "He failed"},
       {"q": "彼女を説得すること", "a": "to persuade her."},
@@ -342,7 +342,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "容疑者は南部育ちに違いない（must have been / no matter how）",
+    "title": "容疑者は南部育ちに違いない",
     "items": [
       {"q": "その専門家は言った", "a": "The expert said"},
       {"q": "容疑者は住んでいるか、育ったに違いない", "a": "the suspect must live in or must have been brought up"},
@@ -356,7 +356,7 @@ window.PROBLEM_SETS = [
     ]
   },
   {
-    "title": "円高は当分続きそうだ（As far as ~ sees）",
+    "title": "円高は当分続きそうだ",
     "items": [
       {"q": "専門家が見る限り", "a": "As far as the expert sees,"},
       {"q": "円高", "a": "the appreciation of the yen"},
